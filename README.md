@@ -1,4 +1,4 @@
-![](https://i.imgur.com/ySs7i0E.mp4)
+![](https://raw.githubusercontent.com/Melonslise/unity-card-game/main/showcase.gif)
 
 # Task
 Create a game based on the battle of two "stacks" of units.
